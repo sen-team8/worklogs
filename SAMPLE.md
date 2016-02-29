@@ -1,23 +1,19 @@
-### 29 Feb
+# 29 Feb
 
->Brief: a brief of everything. keep it 2-3 lines.
+>Brief: Here is a brief.
 
-## Assigned Work according to MOM of the week
-1. [ ] this that
-2. [ ] that also
-3. [ ] something more
+### Work
+_*A tick indicates a complete work*_
 
-## Work done
-1. [ ] this that
-2. [ ] that also
-3. [ ] something more
+1. [x] this that, this is done thing.
+2. [ ] that also.
+3. [ ] something more.
 
-## Work left
-
+### Work left
 _*To be carried over*_
 
 1. xyz task, will do friday tak.
 2. AWQ task is vage and need further discussion
 
-## Misc
+### Misc
 > Optional
