@@ -4,24 +4,20 @@
 ##Till 29th Feb
 
 
-> Make Traceability Matrix Version 1
+- Make Traceability Matrix Version 1
 
-> Survey analysis updated
+- Survey analysis updated
 
-> Formatting of SRS
+- Formatting of SRS
 
-> Took interview of MScIT student
+- Took interview of MScIT student
 
-> Took survey of 30 students of any batch.
+- Took survey of 30 students of any batch.
 
-> Took survey of 40 student of Btech first year batch.
+- Took survey of 40 student of Btech first year batch.
 
-
-
-----
 
 ## Work left
 
 ----
-
-> Make TODO App
+-  Make TODO App
