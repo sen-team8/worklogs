@@ -41,3 +41,36 @@ _*To be carried over*_
 
 ### Work left
 _*None*_
+
+# 3 March
+
+### Work
+- [x] None
+
+### Work left
+_*None*_
+
+# 4 March
+
+### Work
+- [x] Read about Agile development from the Software engineering book.
+
+### Work left
+_*None*_
+
+# 5 March
+
+### Work
+- [x] Read about the different activity diagrams online from tutorials point
+
+### Work left
+_*None*_
+
+# 6 March
+
+### Work
+- [x] None
+
+### Work left
+_*None*_
+
