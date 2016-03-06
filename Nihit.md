@@ -13,4 +13,25 @@ This contains the work done till 29 feb, 2016.
 - [x] Make a ToDoApp using React.
 
 #### Work Left
-- [ ] Conduct surveys of minimum 40 students from B.Tech 3 year.
+- [x] Conduct surveys of minimum 40 students from B.Tech 3 year.
+
+### 1 Mar, 2016
+- Took survey
+
+### 2 Mar, 2016
+- Sent mail to batch B.Tech 2013 for survey.
+
+### 3 Mar, 2016
+- Made MOM for 3 Mar
+
+### 4 Mar, 2016
+- Did nothing
+
+### 5 Mar, 2016
+- Learning ReactJS
+
+### 6 Mar, 2016
+- Learning ReactJS
+
+#### Work
+- Nothing was assigned
