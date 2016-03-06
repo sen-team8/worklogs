@@ -17,6 +17,9 @@
 1. [ ] The ToDo App needs to be completed by Friday.
 2. [ ] Responses for survey
 
+# 1 Mar 2016
+- No work done
+
 # 2 March 2016
 ### Work
 
@@ -36,9 +39,17 @@
 
 1. [ ] The ToDo App needs to be completed by Friday
 
+# 4 Mar 2016
+- No work done
+
 # 5 March 2016
 ### Work
 
 1. [x] The ToDo App needs to be completed.
 
 ### Work Left
+
+# 6 Mar 2016
+### Work
+
+1. [x] Learned some git functioning.
