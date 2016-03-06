@@ -13,7 +13,24 @@
 # 1st March
 - Got survey responses from many 1st yearites in the new survey form.
 
+# 2nd March
+- Continued work on getting survey responses from 1st yearites in the new survey form.
+
+# 3rd March
+- Explained basic ReactJS features and workflow to some group members who were starting to learn ReactJS. Discussed basic UI design for the project. Also discussed how to start working on the System test plan and design document,
+
+# 4th March
+- Started learning ReactJS in-depth from a tutorial that was assigned as a group task.
+(Link to tutorial : http://courses.reactjsprogram.com/courses/reactjsfundamentals)
+
+# 5th March
+- Continued on the ReactJS tutorial. Learned component API.
+
+# 6th March
+- Continued on the ReactJS tutorial. Learned squashing commits and rebasing in git. Got fairly acquainted with using branches and remotes in git.
+
+
+
 ### Work Left
 
-- Get more responses in the new survey form.
-- Coordinate the completion of System test plan.
+- System test plan.
