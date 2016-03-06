@@ -50,3 +50,30 @@ This contains the work done on 1 March, 2016.
 - [ ] Start the React Tutorial.
 - [ ] Do changes in the SRS according to the new survey analysis.
 - [ ] Start with Design document.
+
+###4 March, 2016
+
+###Work Left
+- [ ] Start with React tutorial.
+
+###5 March, 2016
+
+###Work Left
+- [ ] Start with React tutorial.
+
+###6 March, 2016
+
+###Work
+- [x] Took 25 surveys in total.
+- [x] Done with Todo app.
+- [x] Got accustomed with Github.
+- [x] Started with ui/ux for our dashboard with barkha.
+
+###Work Left
+- [ ] Do React tutorial
+- [ ] Start with design document.
+
+###Misc
+ 1. Go through different uml diagrams and check which will suit our project.
+ 2. Explore React more.
+ 3. Do more on github for better understanding.
