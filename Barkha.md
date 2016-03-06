@@ -11,3 +11,32 @@ _*A tick indicates a complete work*_
 ### Work Left
 
 1. [ ] The ToDo App needs to be completed by Friday
+
+# March 2nd 2016
+
+### Work done
+1. Increased survey responses especially that of M.Tech. Tried getting up upto 40 responses.
+2. Worked on the ToDo application
+
+# March 3rd 2016
+
+### Work done
+1. Completed ToDo application.
+2. Started a tutorial on React.
+
+# March 4th 2016
+
+### Work done
+1. Continued the React tutorial.
+2. Updated skeletons and formats of the System Test Plan and the Design documents.
+
+# March 5th 2016
+
+### Work done
+1. Read about UML diagrams.
+2. Made rough sketches of the UI.
+
+# March 6th 2016
+
+### Work done
+1. Made a list of the diagrams required for the design document.
