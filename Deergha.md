@@ -21,3 +21,40 @@
 
 ----
 -  Make TODO App
+
+## 6th march 
+
+- No work done
+
+
+# Deergha Worklog
+
+----
+##1st march
+
+
+- To makeTodo app
+
+##2nd march
+
+- to make todo app
+
+##3rd march 
+
+- Took 45 survey from Btech 1st year student 
+
+## 4th march
+
+- To make survey document file 
+
+## 5th march
+
+- To make survey document file 
+
+ 
+## Work left
+
+----
+-  Start react tutorial
+ 
+
