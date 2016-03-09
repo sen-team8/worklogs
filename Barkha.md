@@ -59,4 +59,3 @@ _*A tick indicates a complete work*_
 ### Work done
 1. Finalizing the first draft of wireframes (UI).
 2. Editing and writing the design document required.
-3. Updating work log.
