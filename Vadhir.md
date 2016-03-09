@@ -20,6 +20,15 @@ WorkLog of Vadhir
 # 6th March
 - Learning React.
 
+# 7th March
+- Read about activity diagrams
+
+# 8th March
+- Made a rough draft of activity diagram
+
+# 9th March
+- Revised activity diagram
+
 
 ## Work
 1. [x] Conduct surveys of minimum 40 students from B.Tech 3rd year.
