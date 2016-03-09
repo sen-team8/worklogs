@@ -40,3 +40,22 @@ _*A tick indicates a complete work*_
 
 ### Work done
 1. Made a list of the diagrams required for the design document.
+
+# March 7th 2016
+
+### Work done
+1. First sketch of the user interface of the software.
+2. Read more about UML diagrams.
+3. Continued React tutorial.
+
+# March 8th 2016
+
+### Work done
+1. Editing the design document.
+2. Working on wireframes and using a software for the mockups.
+
+# March 9th 2016
+
+### Work done
+1. Revising and editing the design document.
+2. Finalising and uploading the first draft of wireframes.
