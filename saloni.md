@@ -77,3 +77,26 @@ This contains the work done on 1 March, 2016.
  1. Go through different uml diagrams and check which will suit our project.
  2. Explore React more.
  3. Do more on github for better understanding.
+
+###7 March
+
+###Work
+- [x] Started with React tutorial.
+- [x] Studies about the uml diagrams, mainly use case diagram.
+
+###8 March
+
+###Work
+- [x] Studied more on Use Case Diagram.
+- [x] Made basic use case diagrams for all scenarios except chat room and class notes.
+
+###Work Left
+- [ ] Make use case diagram for chat room and class notes.
+- [ ] Make changes in other use case diagrams.
+
+###9 March
+
+###Work
+- [x] Made use case diagrams for all modules.
+- [x] Met Kushan and discussed about them. Made necessary changes according to the issues and missing things after the      discussing with Kushan.
+- [x] Incorporated use case diagrams in design doc.
