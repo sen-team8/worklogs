@@ -40,3 +40,22 @@ _*A tick indicates a complete work*_
 
 ### Work done
 1. Made a list of the diagrams required for the design document.
+
+# March 7th 2016
+
+### Work done
+1. Detail study of UML diagrams.
+2. Allotted work and divisions for the design document.
+3. Rough sketch of the UI.
+
+# March 8th 2016
+
+### Work done
+1. Made wireframes of the various screens and keep iterating through their designs.
+2. Editing the design document.
+
+# March 9th 2016
+
+### Work done
+1. Finalizing the first draft of wireframes (UI).
+2. Editing and writing the design document required.
