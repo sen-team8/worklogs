@@ -74,3 +74,27 @@ _*None*_
 ### Work left
 _*None*_
 
+# 7 March
+
+### Work
+- [x] None
+
+### Work left
+_*None*_
+
+# 8 March
+
+### Work
+- [x] System test plan section 1,2,3,4,12,13 Created
+
+### Work left
+_*None*_
+
+# 9 March
+
+### Work
+- [x] System Test plan Sections assigned to Kuljeet Reviewed. 
+
+### Work left
+_*None*_
+
