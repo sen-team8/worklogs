@@ -53,3 +53,33 @@
 ### Work
 
 1. [x] Learned some git functioning.
+
+# 7 March 2016
+### Work
+
+1. [x] Section 2 and 5 created.
+
+### Work Left
+1. [ ] section 2 and 5.
+2. [ ] dataflow diagrams.
+3. [ ] E-R diagram.
+
+# 8 March 2016
+### Work
+
+1. [x] Section 5 updated.
+
+### Work Left
+1. [ ] dataflow diagrams.
+2. [ ] E-R diagram.
+3. [ ] section 2 and 5.
+
+# 9 March 2016
+### Work
+
+1. [x] dataflow diagrams.
+2. [x] section 2.
+
+### Work Left
+1. [ ] section 5 (add detail).
+2. [ ] E-R diagram.
