@@ -29,8 +29,18 @@
 # 6th March
 - Continued on the ReactJS tutorial. Learned squashing commits and rebasing in git. Got fairly acquainted with using branches and remotes in git.
 
+# 7th March
+- Started working on System Test Plan.
 
+# 8th March
+- Completed section 5 and 7 in System test plan.
+
+# 9th March
+- Completed section 3,6, 9 and 10 in System test plan.
+
+# 10th March
+- Reviewed System test plan.
 
 ### Work Left
 
-- System test plan.
+- Design doc
