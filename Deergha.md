@@ -71,4 +71,26 @@
 
 - updated Low level document 
  
+## 18th to 27 march
 
+- Read all document 
+
+## 28th & 29th march 
+
+- Help in to make login page 
+
+## 30th march
+
+- To make code of conduct document
+
+## 31th march
+
+- Make directory in readme file
+
+## 1st & 2nd April 
+
+- To make Tools And Library document
+
+## 3rd & 4th April
+
+- To make section 1 & 2 in RMMMP doc
