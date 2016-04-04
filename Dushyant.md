@@ -47,7 +47,6 @@
 
 1. [x] The ToDo App needs to be completed.
 
-### Work Left
 
 # 6 Mar 2016
 ### Work
@@ -83,3 +82,144 @@
 ### Work Left
 1. [ ] section 5 (add detail).
 2. [ ] E-R diagram.
+
+# 10 March 2016
+### Work
+
+1. [x] section 5.
+
+### Work Left
+1. [ ] E-R diagram.
+
+> Exam till 18 March
+
+[//]: <> (Exam Preparation 11 , 12 ,13 Mar )
+[//]: <> (Holi break 19 -26 Mar )
+
+# 19 March 2016
+### Work
+
+- No work done
+
+# 20 March 2016
+### Work
+
+- No work done
+
+# 21 March 2016
+### Work
+
+- No work done
+
+# 22 March 2016
+### Work
+
+1. [x] Fixed the Formating of documents.
+
+### Work Left
+
+1. [ ] E-R Diagrams.
+
+# 23 - 25 March 2016
+
+- No work done.
+
+# 26 March 2016
+
+### Work
+
+1. [x] Rough E-R diagrams.
+
+### Work Left
+
+1. [ ] E-R Diagrams.
+
+# 27 March 2016
+
+### Work
+
+- No work done
+
+### Work Left
+
+1. [ ] E-R Diagrams.
+
+# 28 March 2016
+
+### Work
+
+1. [x] class Diagrams updated.
+2. [x] E-R diagrams.
+
+### Work Left
+
+# 29 March 2016
+
+### Work
+
+1. [x] CONTRIBUTING.md
+
+### Work Left
+
+1. [ ] Give E-R diagrams and class diagrams to review.
+2. [ ] coding-convention.md
+
+# 30 March 2016
+
+### Work
+
+1. [x] coding-convention.md
+
+### Work Left
+
+1. [ ] Give E-R diagrams and class diagrams to review.
+
+# 31 March 2016
+
+### Work
+
+1. [x] Give E-R diagrams and class diagrams to review.
+
+### Work Left
+
+1. [ ] Add example to coding-convention
+
+# 1 April 2016
+
+### Work
+
+1. [x] Add example to coding-convention
+
+### Work Left
+
+
+# 2 April 2016
+
+### Work
+
+1. [x] Add example to coding-convention
+
+### Work Left
+
+1. [ ] RMMMP
+
+# 3 April 2016
+
+### Work
+
+1. [x] Section 2 created in RMMMP.
+
+### Work Left
+
+1. [ ] RMMMP
+
+# 4 April 2016
+
+### Work
+
+1. [x] Section 3 created in RMMMP.
+2. [x] Section 4 Added.
+
+### Work Left
+
+1. [ ] RMMMP
