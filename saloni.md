@@ -2,6 +2,7 @@ WorkLog of Saloni
 ==============
 
 ###29 Feb, 2016
+
 This contains the work done till 29 feb, 2016.
 
 ###Work
@@ -100,3 +101,68 @@ This contains the work done on 1 March, 2016.
 - [x] Made use case diagrams for all modules.
 - [x] Met Kushan and discussed about them. Made necessary changes according to the issues and missing things after the      discussing with Kushan.
 - [x] Incorporated use case diagrams in design doc.
+
+###10 March
+
+###Work
+- [x] Completed use case text for all use case diagrams in the lab.
+- [x] Learning React
+
+###28 March
+
+###Work
+- [x] Started with Login page using react.
+
+###29 March
+
+###Work
+- [x] Login page using react continued.
+
+###Work Left
+- [ ] Started with README.md for our da-dash repository
+- [ ] Complete login page.
+
+###30 March
+
+### Work
+- [x] Completed half of README.md.
+- [x] Completed static page for login without any styling.
+
+###Work Left
+- [ ] Do styling of login page
+- Complete README.md
+
+###2 April
+
+### Work
+- [x] Reviewed Quality Assurance Plan
+
+### Work Left
+- [ ] Review Software Configuration Management Plan
+
+###3 April
+
+### Work
+- [x] Reviewed Software Configuration Management Plan.
+
+### Work Left
+- [ ] Review Code of Conduct and Termination analysis document.
+- [ ] Start user manual using gitbook.
+
+###4 April
+
+### Work
+- [x] Reviewed Code of Conduct and Termination analysis document.
+- [x] Done with user manual.
+
+### Work Left
+- [ ] Start with Risk Mitigation , Monitoring and Management Plan.
+
+###5 April
+
+### Work
+- [x] Almost done with Risk Mitigation , Monitoring and Management Plan.
+
+### Work Left
+- [ ] Complete Risk Mitigation , Monitoring and Management Plan.
+- [ ] Add more content in User Manual.
