@@ -100,3 +100,113 @@ This contains the work done on 1 March, 2016.
 - [x] Made use case diagrams for all modules.
 - [x] Met Kushan and discussed about them. Made necessary changes according to the issues and missing things after the      discussing with Kushan.
 - [x] Incorporated use case diagrams in design doc.
+
+###10 March
+
+###Work
+- [x] Completed use case text for all use case diagrams in the lab.
+- [x] Learning React
+
+###28 March
+
+###Work
+- [x] Started with Login page using react.
+
+###29 March
+
+###Work
+- [x] Login page using react continued.
+
+###Work Left
+- [ ] Started with README.md for our da-dash repository
+- [ ] Complete login page.
+
+###30 March
+
+### Work
+- [x] Completed half of README.md.
+- [x] Completed static page for login without any styling.
+
+###Work Left
+- [ ] Do styling of login page
+- Complete README.md
+
+###2 April
+
+### Work
+- [x] Reviewed Quality Assurance Plan
+
+### Work Left
+- [ ] Review Software Configuration Management Plan
+
+###3 April
+
+### Work
+- [x] Reviewed Software Configuration Management Plan.
+
+### Work Left
+- [ ] Review Code of Conduct and Termination analysis document.
+- [ ] Start user manual using gitbook.
+
+##4 April
+
+### Work
+- [x] Reviewed Code of Conduct and Termination analysis document.
+- [x] Done with user manual.
+
+### Work Left
+ [ ] Start with Risk Mitigation , Monitoring and Management Plan.
+
+###5 April
+
+### Work
+- [x] Almost done with Risk Mitigation , Monitoring and Management Plan.
+
+### Work Left
+- [ ] Complete Risk Mitigation , Monitoring and Management Plan.
+- [ ] Add more content in User Manual.
+
+### 6 April
+
+### Work
+- [x] Started with user manual
+
+### 7 April
+
+### Work
+- [x] Continued with user manual.
+
+### 8 April
+
+### Work
+- [x] Continued with user manual
+
+### Work Left
+- [ ] Start reviewing documents.
+
+### 9 April
+
+### Work
+- [x] Made minor changes in RM3P
+- [x] Minor changes in Design document
+- [x] Continued with user manual.
+
+### 10 April
+
+### Work
+- [x] Continued with user manual.
+- [x] Reviewing SRS and design document.
+
+### 11 April
+
+### Work
+- [x] Continued user manual.
+- [x] Reviewed SRS and finding inconsistencies.
+
+
+### 12 April
+
+### Work
+- [x] User manual
+- [x] Made final presentation
+- [x] helped barkha in drafting permission letter
