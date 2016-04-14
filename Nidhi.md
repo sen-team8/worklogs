@@ -127,7 +127,7 @@ _*None*_
 # 31 March
 
 ### Work
-- [x] Made the testing document with functionality test cases that would be tested. 
+- [x] Made the testing document with few functionality test cases that would be tested. 
 
 # 3 April
 
@@ -154,6 +154,12 @@ _*None*_
 ### Work
 - [x] Worked on the termination analysis report 
 
+# 12 April
+- [x] Added more test cases to the document that we functionally tested. 
 
-
+# 14 April
+- [x] Completed the termination analysis. 
+- [x] Added the section of functionality in the outline of testing that we performed. 
+- [x] Helped to prepare the presentation slides
+- [x] Got the letter signed from Prof. Pillutla
 
