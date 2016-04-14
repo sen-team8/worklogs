@@ -210,3 +210,17 @@ This contains the work done on 1 March, 2016.
 - [x] User manual
 - [x] Made final presentation
 - [x] helped barkha in drafting permission letter
+
+### 13 April
+- [x] User manual
+- [x] Reviewed documents
+- [x] Review logs
+
+### 14 April
+- [x] User manual
+- [x] WorkLog
+- [x] Final presentation
+
+### 15 April
+- [x] Completed user manual
+- [x] Completed final presentation
