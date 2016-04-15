@@ -162,4 +162,5 @@ _*None*_
 - [x] Added the section of functionality in the outline of testing that we performed. 
 - [x] Helped to prepare the presentation slides
 - [x] Got the letter signed from Prof. Pillutla
+- [x] Added sections of the deployment plan
 
