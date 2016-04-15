@@ -124,6 +124,5 @@
 
 # 14th April
 - Working on completion of the Test report document.
-
-### Work Left
-- Test report
+# 15th April
+- Final compilation of docs. Wrote peer review. Added testing analysis to final ppt slide.
