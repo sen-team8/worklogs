@@ -59,3 +59,113 @@ _*A tick indicates a complete work*_
 ### Work done
 1. Revising and editing the design document.
 2. Finalising and uploading the first draft of wireframes.
+
+# March 10th 2016
+
+### Work done
+1. Reviewing design document 
+
+# March 11th 2016
+
+### Work done
+1. Update wireframes
+
+# March 12-18th 2016
+
+### Preparation for 2nd In-Semester Examinations
+
+# March 19-27 2016 (Holi Vacations)
+
+### Work done
+1. Beginning coding convention document
+2. Learning more about React and CSS
+3. Editing and reviewing all docuemnts written till now
+
+# March 28 2016
+
+### Work done
+1. Added to the coding conventions document
+
+# March 29 2016
+
+### Work done
+1. Began working on the main Dashboard page (static)
+
+# March 30 2016
+
+### Work done
+1. Final touches on the static home page
+
+# March 31 2016
+
+### Work done
+1. Added icons to the home page 
+
+# April 1 2016
+
+### Work done
+1. Making a list of remaining documents
+2. Assigning remaining documents to team members.
+
+# April 2 2016
+1. Making sure design documents are updated and consistent. 
+2. Added skeletons and formats of remaining documents.
+
+### Work done
+1. Software Quality Assurance Plan written
+2. Reviewed Tools and Libraries Document
+
+# April 3 2016
+
+### Work done
+1. Software Configuration Management Document written.
+
+# April 4 2016
+
+### Work done
+1. Update UI of the ToDo app if it hasn't been done
+2. Help writing/reviewing remaining documents 
+
+# April 5 2016
+
+### Work done
+1. Made the Gantt chart looking at the project plan
+
+# April 6 2016
+
+### Work done
+1. Update UI
+
+# April 7 2016
+
+### No work done
+
+# April 8 2016
+
+### No work done
+
+# April 9 2016
+
+### Work done
+1. Update UI 
+2. Check widget functionalities
+
+# April 10 2016
+
+### Work done
+1. Reviewed the user manual
+2. Made sure documents are up to date
+
+# April 11 2016
+
+### Work done
+1. Reviewing documents 
+2. Listed document we are missing
+3. Added to the tools and libraries document
+
+# April 12 2016
+
+### Work done
+1. Reviewed various documents
+2. Drafted skeleton of the deployment plan
+3. Began working on the presentation
