@@ -169,3 +169,25 @@ _*A tick indicates a complete work*_
 1. Reviewed various documents
 2. Drafted skeleton of the deployment plan
 3. Began working on the presentation
+
+# April 13 2016
+
+### Work done
+1. Compiling a list of what is remaining
+2. Final editing of documents including format and grammar
+
+# April 14 2016
+
+### Work done
+1. Formatting of documents
+2. Making sure the PDF is of a proper format
+3. Document headings
+4. Review logs
+5. Peer review template
+
+# April 15 2016
+
+### Work done
+1. Check if all documents are there
+2. Check review logs
+3. Last minute compiling
