@@ -172,17 +172,17 @@
 
 ### Work Left
 
-1. [ ] Give E-R diagrams and class diagrams to review.
+1. [x] Give E-R diagrams and class diagrams to review.
 
 # 31 March 2016
 
 ### Work
 
-1. [x] Give E-R diagrams and class diagrams to review.
+1. [x] partial coding convention
 
 ### Work Left
 
-1. [ ] Add example to coding-convention
+1. [ ] coding-convention
 
 # 1 April 2016
 
@@ -223,3 +223,89 @@
 ### Work Left
 
 1. [ ] RMMMP
+
+# 5 April 2016
+
+### Work
+
+1. [x] Section 3 updated in RMMMP.
+2. [x] Section 4 updated.
+
+### Work Left
+
+1. [ ] RMMMP
+
+# 6 April 2016
+
+###  Work
+
+1. [x] loginReducer test
+
+### Work Left
+
+1. [ ] RMMMP
+
+
+# 7 April 2016
+
+###  Work
+
+1. [x] RMMMP
+
+# 8 April 2016
+
+###  Work
+
+1. [x] some Enzyme todo testcase
+
+### Work Left
+
+1. [ ] Enzyme todo testcase
+
+# 9 April 2016
+
+###  Work
+
+1. [x] added Enzyme todo testcase
+
+### Work Left
+
+1. [ ] Enzyme todo testcase
+
+# 10 April 2016
+
+###  Work
+
+- No work done
+
+# 11 April 2016
+
+###  Work
+
+1. [x] enzyme todo test case.
+
+# 12 April 2016
+
+###  Work
+
+1. [x] description to the testcase
+
+
+# 13 April 2016
+
+###  Work
+
+1. [x] Enzyme todo testcase
+
+# 14 April 2016
+
+###  Work
+
+1. [x] test coverage update in coverage report
+
+# 15 April 2016
+
+###  Work
+
+1. [x] Formatting of test case , test report.
+2. [x] Formatting design document.
