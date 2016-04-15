@@ -45,8 +45,93 @@ This contains the work done till 29 feb, 2016.
 # 9 Mar, 2016
 - Worked on System Test Plan section 8,14
 
-## Work
-- [x] Create section 8,14 of System Test Plan
+# 10th March
+- Learning react making a mini app.
 
-### Work Left
-- All the work is complete.
+# 11th March
+- Continuing learning react
+
+# 12th March
+- Continuing learning react
+
+# 13th-19th March
+- 2nd in-semester exams
+
+# 20th March
+- Started with todo app TO-DO
+
+# 21th March
+- Learning redux for app architecture.
+
+# 22th March
+- Learning redux for app architecture.
+
+# 23th March
+- Making todo app for project.
+
+# 24th March
+- Studying to integrate redux with project.
+
+# 25th March
+- Made basic redux architecture for app. Created actions, reducers for the app.
+
+# 26th-27th March
+- Making todo according to redux architecture. Created actions and store for todo.
+
+# 28th March
+- Fixed functionality of todo app. Fixed bugs in todo app. Implemented edit todo.
+
+# 29th March
+- Learning flex for fixing ui of the app.
+
+# 30th March
+- Fixed ui using flex of todo app.
+
+# 31st March
+- Learning bootstrap which was basic css framework of our app
+
+# 1st April
+- Using bootstrap components for changing todo app.
+
+# 2nd April
+- Learning firebase for our database
+
+# 3rd April
+- Learning to authenticate user using firebase.
+
+# 4th April
+- Implemented login using redux and firebase.
+
+# 5th April
+- Changing logic to login without typing @ in  e-mail
+
+# 6th April
+- Learning to implement chatting using firechat of firebase.
+
+# 7th April
+- implementing chat application using redux.
+
+# 8th April
+- Connecting chats to firebase database.
+
+# 9th April
+- Creating batch and daiict chat.
+
+# 10th April
+- Implementing discussion for intranet folders.
+- Created discussions for 2 and 3 level of intranet.
+
+# 11th April
+- Created profile for app using redux and linked authentication for profile
+
+# 12th April
+- Created Discussion for lectures
+
+# 13th April
+- Refined Chatroom ui
+
+# 14th April
+- Created basic profile and linked todos wth firebase Apr
+
+# 15th April
+- implemented file upload 
