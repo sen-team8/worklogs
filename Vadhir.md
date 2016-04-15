@@ -29,11 +29,64 @@ WorkLog of Vadhir
 # 9th March
 - Revised activity diagram
 
+#10th - 27th March
+- Studied react technology
+
+# 28th March
+- TODO application backend and front end (Firebase)
+
+# 29th March
+- Setting Bootstrap for TODO app
+
+#30th March
+- Continue with the to do widget
+
+#1st April
+- Firebase integration
+
+#2nd April
+- Login authentication, UI design
+
+#3rd April
+- Start with Todo app
+
+#4th April
+- Small changes in Todo app
+
+#5th April
+- Todo UI fixes
+
+#6th April
+- Add sidebar to dashboard
+
+#7th April
+- Lookup examples of react-redux
+
+#8th April
+- Lookup examples of react-redux
+
+#9th April
+- UI of chatrooom and Todo
+- Fix Lint errors.
+
+#10th April
+- Update user interfaces
+
+#11th April
+- Continue with coding
+
+#12th April
+- Continue with coding
+
+#13th April
+- Fix the UI of all pages
+
+#14th April
+- Final dashboard UI and functional changes
+
+#15th April
+- Final changes. Webmail integration. Search and UI
 
 ## Work
-1. [x] Conduct surveys of minimum 40 students from B.Tech 3rd year.
-- [x] Make a Todo App using React.
-
-## Work Left
-1. Learn advanced react concepts.
-- Start with design phase and begin coding.
+1. [x] Fix webmail UI.
+- [x] Enable search functionality in webmail.
