@@ -71,4 +71,60 @@
 
 - updated Low level document 
  
+## 18th to 27 march
 
+- Read all document 
+
+## 28th & 29th march 
+
+- Help in to make login page 
+
+## 30th march
+
+- To make code of conduct document
+
+## 31th march
+
+- Make directory in readme file
+
+## 1st & 2nd April 
+
+- To make Tools And Library document
+
+## 3rd & 4th April
+
+- To make section 1 & 2 in RMMMP doc
+
+## 5th and 6th april
+
+- To make remaning section of RMMMP doc
+
+## 7th April
+
+- Make a folder consisting of photos of all the professors of DA and their name as visible on intranet
+
+## 8th April
+
+- To make MoM for 8th April
+- Formating System Test Plan , Rmmmp doc
+
+## 9th April
+- Nothing 
+
+## 10th April
+- Updated Tools and Library doc
+
+## 11th April 
+- Checked All documents and Formated 
+
+## 12th April
+- Checked All documents and Formated 
+- Tools and Library Updated V3
+
+## 13th April
+-  Check and format all the documents.
+-  Work on the test report document
+
+## 14th April
+- review Termination Analysis 
+- Make Coverage Report
