@@ -69,7 +69,7 @@ _*None*_
 # 6 March
 
 ### Work
-- [x] None
+- [x] Made the Cost estimation document using the COCOCO model
 
 ### Work left
 _*None*_
@@ -97,4 +97,69 @@ _*None*_
 
 ### Work left
 _*None*_
+
+# 10 March
+
+### Work
+- [x] Added a document explaining how agility was incorporated and would be incorporated in the software development process for 3 months. 
+
+# 19 March
+
+### Work
+- [x] Re-read the two documents systemtest plan and the SDLC for final verification before entering the testing phase. 
+
+# 25 March
+
+### Work
+- [x] Read about travis CI and understood the working of travis
+
+# 26 March
+
+### Work
+- [x] Integrated travis CI for the project in our repository
+- [x] Helped Saloni with a writeup for Travis for the readme document for the git repo. 
+
+# 27 March
+
+### Work
+- [x] Made the component icon.js file for the project for all the icons that the project would need. 
+
+# 31 March
+
+### Work
+- [x] Made the testing document with few functionality test cases that would be tested. 
+
+# 3 April
+
+### Work
+- [x] Worked on the TODO redcuers test cases in Chai Mocha.
+
+# 5 April
+
+### Work
+- [x] Worked on the INTRANET reducers test cases. 
+
+# 7 April
+
+### Work
+- [x] Worked on the testing report for unit test cases that are written. 
+
+# 10 April
+
+### Work
+- [x] Started working on the termination analysis report 
+
+# 11 April
+
+### Work
+- [x] Worked on the termination analysis report 
+
+# 12 April
+- [x] Added more test cases to the document that we functionally tested. 
+
+# 14 April
+- [x] Completed the termination analysis. 
+- [x] Added the section of functionality in the outline of testing that we performed. 
+- [x] Helped to prepare the presentation slides
+- [x] Got the letter signed from Prof. Pillutla
 
